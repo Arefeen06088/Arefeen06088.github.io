@@ -5,12 +5,20 @@
     <link>https://Arefeen06088.github.io/event/</link>
       <atom:link href="https://Arefeen06088.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Nov 2021 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 12:00:00 -0700</lastBuildDate>
     <image>
       <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://Arefeen06088.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Optimizations in Sparse Coding</title>
+      <link>https://Arefeen06088.github.io/talk/optimizations-in-sparse-coding/</link>
+      <pubDate>Fri, 22 Apr 2022 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/optimizations-in-sparse-coding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational Autoencoder</title>
