@@ -5,12 +5,76 @@
     <link>https://Arefeen06088.github.io/event/</link>
       <atom:link href="https://Arefeen06088.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Jul 2022 12:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 May 2023 14:00:00 -0700</lastBuildDate>
     <image>
       <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://Arefeen06088.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Entropy-based Logic Explanations of Neural Networks</title>
+      <link>https://Arefeen06088.github.io/talk/entropy-based-logic-explanations-of-neural-networks/</link>
+      <pubDate>Thu, 04 May 2023 14:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/entropy-based-logic-explanations-of-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rep-Net: Efficient On-Device Learning via Feature Reprogramming</title>
+      <link>https://Arefeen06088.github.io/talk/rep-net-efficient-on-device-learning-via-feature-reprogramming/</link>
+      <pubDate>Thu, 06 Apr 2023 14:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/rep-net-efficient-on-device-learning-via-feature-reprogramming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Generative Adversarial Networks with Limited Data</title>
+      <link>https://Arefeen06088.github.io/talk/training-generative-adversarial-networks-with-limited-data/</link>
+      <pubDate>Thu, 23 Feb 2023 14:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/training-generative-adversarial-networks-with-limited-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Knowledge Aided Explainable Artificial Intelligence for Intrusion Detection and Response</title>
+      <link>https://Arefeen06088.github.io/talk/domain-knowledge-aided-explainable-artificial-intelligence-for-intrusion-detection-and-response/</link>
+      <pubDate>Wed, 01 Feb 2023 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/domain-knowledge-aided-explainable-artificial-intelligence-for-intrusion-detection-and-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Experiment in Material Engineering Using Machine Learning</title>
+      <link>https://Arefeen06088.github.io/talk/augmented-experiment-in-material-engineering-using-machine-learning/</link>
+      <pubDate>Wed, 21 Dec 2022 15:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/augmented-experiment-in-material-engineering-using-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge</title>
+      <link>https://Arefeen06088.github.io/talk/computational-framework-for-sequential-diet-recommendation-integrating-linear-optimization-and-clinical-domain-knowledge/</link>
+      <pubDate>Mon, 14 Nov 2022 11:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/computational-framework-for-sequential-diet-recommendation-integrating-linear-optimization-and-clinical-domain-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretable Model-Agnostic Explanations</title>
+      <link>https://Arefeen06088.github.io/talk/local-interpretable-model-agnostic-explanations/</link>
+      <pubDate>Wed, 19 Oct 2022 10:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/local-interpretable-model-agnostic-explanations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Decision Boundary for DNN on High Dimensional Data</title>
+      <link>https://Arefeen06088.github.io/talk/characterizing-decision-boundary-for-dnn-on-high-dimensional-data/</link>
+      <pubDate>Wed, 07 Sep 2022 10:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/talk/characterizing-decision-boundary-for-dnn-on-high-dimensional-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grad-CAM for Interpreting DNN Model Decisions</title>
