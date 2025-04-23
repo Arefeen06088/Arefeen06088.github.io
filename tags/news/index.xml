@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/tags/news/</link>
+      <atom:link href="https://Arefeen06088.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://Arefeen06088.github.io/tags/news/</link>
+    </image>
+    
+    <item>
+      <title>Recent news</title>
+      <link>https://Arefeen06088.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

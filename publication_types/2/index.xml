@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/publication_types/2/</link>
+      <atom:link href="https://Arefeen06088.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 01:22:35 -0700</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://Arefeen06088.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Cost-Effective Multitask Active Learning in Wearable Sensor Systems</title>
+      <link>https://Arefeen06088.github.io/publication/cost-effective-multitask-learning/</link>
+      <pubDate>Tue, 25 Feb 2025 01:22:35 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/cost-effective-multitask-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

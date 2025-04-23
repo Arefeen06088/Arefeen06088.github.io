@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Talks | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/event/</link>
+      <atom:link href="https://Arefeen06088.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 12:30:00 -0700</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent Talks</title>
+      <link>https://Arefeen06088.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers</title>
+      <link>https://Arefeen06088.github.io/event/2025-2-asif-realisticcfs2/</link>
+      <pubDate>Wed, 26 Feb 2025 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/2025-2-asif-realisticcfs2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Unifying Evaluation of Counterfactual Explanations: Leveraging Large Language Models for Human-Centric Assessments</title>
+      <link>https://Arefeen06088.github.io/event/aa-automated-cf-evaluation/</link>
+      <pubDate>Wed, 15 Jan 2025 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/aa-automated-cf-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TABCF: Counterfactual Explanations for Tabular Data Using a Transformer-Based VAE</title>
+      <link>https://Arefeen06088.github.io/event/tabcf/</link>
+      <pubDate>Wed, 06 Nov 2024 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/tabcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realistic Counterfactual Explanations with Learned Relations</title>
+      <link>https://Arefeen06088.github.io/event/realistic_cfs/</link>
+      <pubDate>Wed, 02 Oct 2024 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/realistic_cfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM-Guided Counterfactual Data Generation for Fairer AI</title>
+      <link>https://Arefeen06088.github.io/event/llm_cf/</link>
+      <pubDate>Wed, 28 Aug 2024 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/llm_cf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Explainable Recommendation</title>
+      <link>https://Arefeen06088.github.io/event/counter/</link>
+      <pubDate>Tue, 28 May 2024 15:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/counter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Counterfactual Visual Explanations</title>
+      <link>https://Arefeen06088.github.io/event/ace/</link>
+      <pubDate>Tue, 02 Apr 2024 15:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CounterNet: End-to-End Training of Prediction Aware Counterfactual Explanations</title>
+      <link>https://Arefeen06088.github.io/event/counternet/</link>
+      <pubDate>Tue, 06 Feb 2024 15:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/counternet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Interpretable Counterfactual Explanations By Implicit Minimization of Epistemic and Aleatoric Uncertainties</title>
+      <link>https://Arefeen06088.github.io/event/cfs-without-gens/</link>
+      <pubDate>Wed, 15 Nov 2023 13:50:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/cfs-without-gens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Explanations for Multivariate Time Series</title>
+      <link>https://Arefeen06088.github.io/event/cf-for-timeseries/</link>
+      <pubDate>Thu, 05 Oct 2023 13:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/cf-for-timeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations</title>
+      <link>https://Arefeen06088.github.io/event/counterfactual-explanations/</link>
+      <pubDate>Thu, 31 Aug 2023 13:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/counterfactual-explanations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting the future clinical events of a patient through contrastive learning</title>
+      <link>https://Arefeen06088.github.io/event/simclr/</link>
+      <pubDate>Wed, 12 Jul 2023 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/simclr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Importance Explanations for Temporal Black-Box Models</title>
+      <link>https://Arefeen06088.github.io/event/time/</link>
+      <pubDate>Wed, 14 Jun 2023 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-based Logic Explanations of Neural Networks</title>
+      <link>https://Arefeen06088.github.io/event/entropy-based-xai/</link>
+      <pubDate>Thu, 04 May 2023 14:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/entropy-based-xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rep-Net: Efficient On-Device Learning via Feature Reprogramming</title>
+      <link>https://Arefeen06088.github.io/event/repnet/</link>
+      <pubDate>Thu, 06 Apr 2023 14:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/repnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Generative Adversarial Networks with Limited Data</title>
+      <link>https://Arefeen06088.github.io/event/ada/</link>
+      <pubDate>Thu, 23 Feb 2023 14:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/ada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Knowledge Aided Explainable Artificial Intelligence for Intrusion Detection and Response</title>
+      <link>https://Arefeen06088.github.io/event/domain_knowledge-powered-xai/</link>
+      <pubDate>Wed, 01 Feb 2023 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/domain_knowledge-powered-xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Experiment in Material Engineering Using Machine Learning</title>
+      <link>https://Arefeen06088.github.io/event/domain_k/</link>
+      <pubDate>Wed, 21 Dec 2022 15:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/domain_k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge</title>
+      <link>https://Arefeen06088.github.io/event/smart-diet-assistant/</link>
+      <pubDate>Mon, 14 Nov 2022 11:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/smart-diet-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretable Model-Agnostic Explanations</title>
+      <link>https://Arefeen06088.github.io/event/lime/</link>
+      <pubDate>Wed, 19 Oct 2022 10:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/lime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Decision Boundary for DNN on High Dimensional Data</title>
+      <link>https://Arefeen06088.github.io/event/characterizing-decision-boundaries-in-higher-dimensions/</link>
+      <pubDate>Wed, 07 Sep 2022 10:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/characterizing-decision-boundaries-in-higher-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grad-CAM for Interpreting DNN Model Decisions</title>
+      <link>https://Arefeen06088.github.io/event/grad-cam-for-model-decison-interpretation/</link>
+      <pubDate>Fri, 22 Jul 2022 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/grad-cam-for-model-decison-interpretation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Lying Posture Classification with Transfer Learning</title>
+      <link>https://Arefeen06088.github.io/event/boosting-lying-posture-classification/</link>
+      <pubDate>Fri, 10 Jun 2022 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/boosting-lying-posture-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizations in Sparse Coding</title>
+      <link>https://Arefeen06088.github.io/event/optimizations-in-sparse-coding/</link>
+      <pubDate>Fri, 22 Apr 2022 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/optimizations-in-sparse-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Techniques in Semi-Supervised Learning</title>
+      <link>https://Arefeen06088.github.io/event/recent_techniques_ssl/</link>
+      <pubDate>Mon, 27 Sep 2021 16:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/event/recent_techniques_ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNR- Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning</title>
+      <link>https://Arefeen06088.github.io/event/snr/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/event/snr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Which Tasks Should Be Learned Together in Multi-task Learning?</title>
+      <link>https://Arefeen06088.github.io/event/task_assessment/</link>
+      <pubDate>Mon, 21 Jun 2021 15:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/event/task_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anywidth Network</title>
+      <link>https://Arefeen06088.github.io/event/anywidth/</link>
+      <pubDate>Mon, 17 May 2021 15:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/event/anywidth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Review: Attention is All You Need.</title>
+      <link>https://Arefeen06088.github.io/event/paper-review-attention-is-all-you-need/</link>
+      <pubDate>Mon, 05 Apr 2021 22:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/event/paper-review-attention-is-all-you-need/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis</title>
+      <link>https://Arefeen06088.github.io/event/transfer-learning-from-speaker-verification-to-multispeaker-text-to-speech-synthesis/</link>
+      <pubDate>Mon, 01 Mar 2021 23:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/event/transfer-learning-from-speaker-verification-to-multispeaker-text-to-speech-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications</title>
+      <link>https://Arefeen06088.github.io/event/mobilenet/</link>
+      <pubDate>Mon, 11 Jan 2021 15:00:00 -0800</pubDate>
+      <guid>https://Arefeen06088.github.io/event/mobilenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Net: Convolutional Networks for Biomedical Image Segmentation</title>
+      <link>https://Arefeen06088.github.io/event/unet/</link>
+      <pubDate>Wed, 09 Dec 2020 09:00:00 -0800</pubDate>
+      <guid>https://Arefeen06088.github.io/event/unet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social and competition stress detection with wristband physiological signals</title>
+      <link>https://Arefeen06088.github.io/event/stress-detection/</link>
+      <pubDate>Wed, 09 Sep 2020 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/stress-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/publication_types/1/</link>
+      <atom:link href="https://Arefeen06088.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 21:09:35 -0700</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://Arefeen06088.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>LEAD: Localized Explanations with Adversarial Decision Boundary Characterization for Interpretable Disease Prediction</title>
+      <link>https://Arefeen06088.github.io/publication/lead/</link>
+      <pubDate>Mon, 07 Apr 2025 21:09:35 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/lead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MealMeter: Using Multimodal Sensing and Machine Learning for Automatically Estimating Nutrition Intake</title>
+      <link>https://Arefeen06088.github.io/publication/mealmeter/</link>
+      <pubDate>Mon, 07 Apr 2025 21:09:35 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/mealmeter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
