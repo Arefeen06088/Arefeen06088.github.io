@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preprint | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/publication_types/preprint/</link>
+      <atom:link href="https://Arefeen06088.github.io/publication_types/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preprint</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Preprint</title>
+      <link>https://Arefeen06088.github.io/publication_types/preprint/</link>
+    </image>
+    
+    <item>
+      <title>RealAC: A Domain-Agnostic Framework for Realistic and Actionable Counterfactual Explanations</title>
+      <link>https://Arefeen06088.github.io/publication/realac/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/realac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments</title>
+      <link>https://Arefeen06088.github.io/publication/glytwin/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/glytwin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
