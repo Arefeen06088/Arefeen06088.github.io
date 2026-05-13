@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/tags/llm/</link>
+      <atom:link href="https://Arefeen06088.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 12:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>LLM</title>
+      <link>https://Arefeen06088.github.io/tags/llm/</link>
+    </image>
+    
+    <item>
+      <title>Dietary Assessment and Interventions using AI, Wearables and LLM</title>
+      <link>https://Arefeen06088.github.io/event/2026-05-asif-t32-dietary-assessment-interventions/</link>
+      <pubDate>Tue, 05 May 2026 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/2026-05-asif-t32-dietary-assessment-interventions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

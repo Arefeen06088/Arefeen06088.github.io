@@ -21,6 +21,38 @@
     </item>
     
     <item>
+      <title>Dietary Assessment and Interventions using AI, Wearables and LLM</title>
+      <link>https://Arefeen06088.github.io/event/2026-05-asif-t32-dietary-assessment-interventions/</link>
+      <pubDate>Tue, 05 May 2026 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/2026-05-asif-t32-dietary-assessment-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts</title>
+      <link>https://Arefeen06088.github.io/event/2026-02-asif-moirai-moe/</link>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/2026-02-asif-moirai-moe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chronos-2: From Univariate to Universal Forecasting</title>
+      <link>https://Arefeen06088.github.io/event/2025-12-asif-chronos/</link>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/2025-12-asif-chronos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniCast: A Unified Multimodal Prompting Framework for Time Series Forecasting</title>
+      <link>https://Arefeen06088.github.io/event/2025-10-asif-unicast/</link>
+      <pubDate>Wed, 08 Oct 2025 12:30:00 -0700</pubDate>
+      <guid>https://Arefeen06088.github.io/event/2025-10-asif-unicast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Assessing the quality of reporting in artificial intelligence/machine learning research for cardiac amyloidosis</title>
       <link>https://Arefeen06088.github.io/publication/assessing-quality-ai-ml-cardiac-amyloidosis/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
@@ -46,9 +78,9 @@
     
     <item>
       <title>A General Search-Based Framework for Generating Textual Counterfactual</title>
-      <link>https://Arefeen06088.github.io/event/2025-07-asif-digital-health-platform-assessment/</link>
+      <link>https://Arefeen06088.github.io/event/2025-7-asif-digital-health-platform-assessment/</link>
       <pubDate>Wed, 02 Jul 2025 12:00:00 -0700</pubDate>
-      <guid>https://Arefeen06088.github.io/event/2025-07-asif-digital-health-platform-assessment/</guid>
+      <guid>https://Arefeen06088.github.io/event/2025-7-asif-digital-health-platform-assessment/</guid>
       <description></description>
     </item>
     
@@ -527,7 +559,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-916427853&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-719284635&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -545,7 +577,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-916427853&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-719284635&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
