@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments</title>
+      <link>https://Arefeen06088.github.io/publication/glytwin/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/glytwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the quality of reporting in artificial intelligence/machine learning research for cardiac amyloidosis</title>
+      <link>https://Arefeen06088.github.io/publication/assessing-quality-ai-ml-cardiac-amyloidosis/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/publication/assessing-quality-ai-ml-cardiac-amyloidosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A decoder-only foundation model for time-series forecasting</title>
       <link>https://Arefeen06088.github.io/event/2025-8-asif-timesfm/</link>
       <pubDate>Wed, 27 Aug 2025 12:00:00 -0700</pubDate>
@@ -49,14 +65,6 @@
       <link>https://Arefeen06088.github.io/event/2025-5-asif-tce-search/</link>
       <pubDate>Wed, 21 May 2025 12:00:00 -0700</pubDate>
       <guid>https://Arefeen06088.github.io/event/2025-5-asif-tce-search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments</title>
-      <link>https://Arefeen06088.github.io/publication/glytwin/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://Arefeen06088.github.io/publication/glytwin/</guid>
       <description></description>
     </item>
     
@@ -519,7 +527,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-625314987&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-179486532&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -537,7 +545,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-625314987&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-179486532&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
