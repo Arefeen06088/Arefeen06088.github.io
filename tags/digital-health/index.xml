@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Health | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/tags/digital-health/</link>
+      <atom:link href="https://Arefeen06088.github.io/tags/digital-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digital Health</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Digital Health</title>
+      <link>https://Arefeen06088.github.io/tags/digital-health/</link>
+    </image>
+    
+    <item>
+      <title>GlucoGuide</title>
+      <link>https://Arefeen06088.github.io/tool/GlucoGuide/</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/tool/GlucoGuide/</guid>
+      <description>&lt;img src=&#34;demo.gif&#34; alt=&#34;GlucoGuide dashboard demo&#34; style=&#34;width: 100%; border-radius: 8px;&#34;&gt;
+&lt;p&gt;GlucoGuide is a clinician facing retrospective decision support tool for data summarization, insight and intervention generation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

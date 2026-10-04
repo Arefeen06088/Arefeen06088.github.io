@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuclear Diagrams | Asiful Arefeen</title>
+    <link>https://Arefeen06088.github.io/tags/nuclear-diagrams/</link>
+      <atom:link href="https://Arefeen06088.github.io/tags/nuclear-diagrams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nuclear Diagrams</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Arefeen06088.github.io/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Nuclear Diagrams</title>
+      <link>https://Arefeen06088.github.io/tags/nuclear-diagrams/</link>
+    </image>
+    
+    <item>
+      <title>SchemAgent</title>
+      <link>https://Arefeen06088.github.io/tool/SchemAgent/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://Arefeen06088.github.io/tool/SchemAgent/</guid>
+      <description>&lt;img src=&#34;demo.gif&#34; alt=&#34;SchemAgent demo&#34; style=&#34;width: 100%; border-radius: 8px;&#34;&gt;
+&lt;p&gt;SchemAgent is a multi-agent vision-language model framework for extracting connectivity from nuclear plant diagrams.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SchemAgent&lt;/strong&gt; is an AI-powered framework for automatically converting complex engineering schematics into structured, machine-readable connectivity information. Designed for plant drawings like electrical schematics and piping &amp;amp; instrumentation diagrams (P&amp;amp;IDs), SchemAgent combines computer vision with a multi-agent vision-language model workflow to identify components and labels, trace wires and process lines, interpret junctions and reconstruct component-to-component connectivity. Instead of relying on any single representation, the system reasons across the original drawing and multiple derived information layers: component detections, OCR-extracted text, wire traces and junctions to generate a connectivity matrix suitable for downstream engineering analysis. In experiments on synthetic diagrams, the multi-agent approach achieved a mean connectivity F1-score of &lt;strong&gt;0.923&lt;/strong&gt;. Evaluation on manually annotated real plant diagrams further achieved a mean F1-score of &lt;strong&gt;0.877&lt;/strong&gt;, despite challenges like degraded scans, inconsistent drawing conventions, clutter and varying symbol styles. SchemAgent has potential to transform legacy engineering drawings into structured digital representations for applications like dependency analysis, fault-path tracing, configuration management, design verification and equipment isolation planning.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
